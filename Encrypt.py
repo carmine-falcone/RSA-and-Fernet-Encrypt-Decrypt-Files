@@ -72,9 +72,14 @@ def main():
     myfile = open(fileu, 'rb')
     myfiledata = myfile.read()
     encrypted_data = EncryptFile(cipher, myfiledata, fileu)
-
-    print(encrypted_data)
-    print(encrypted_key)
+    
+    wow = str(input("Do you want to see the encrypted content and the encrypted key? [Y/N]?"))
+    if wow.upper() == 'Y':
+        print(encrypted_data)
+        print(encrypted_key)
+        print("Finished!")
+    else:
+        print("Finished!")
 
 if __name__ == "__main__":
     main()
