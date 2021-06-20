@@ -1,5 +1,5 @@
 '''
-RSA Keygenerator for other scripts - by don-batista!
+RSA Keygenerator for other scripts - by carmine-falcone!
 RSA KEYS!
 '''
 #Modules
