@@ -1,5 +1,5 @@
 '''
-Decrypts files with Encrypt.py and keys generated with keygen.py - by don-batista!
+Decrypts files with Encrypt.py and keys generated with keygen.py - by carmine-falcone!
 RSA!
 '''
 import rsa
