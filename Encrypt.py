@@ -1,5 +1,5 @@
 '''
-Encrypt files with keys generated with keygen.py - by don-batista!
+Encrypt files with keys generated with keygen.py - by carmine-falcone!
 RSA!
 '''
 #Modules
